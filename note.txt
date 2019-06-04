@@ -1,0 +1,37 @@
+https://stackoverflow.com/questions/19163628/adding-custom-radio-buttons-in-android
+https://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/
+https://demonuts.com
+https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#0 =>Android Room with a view
+
+Rss feed
+Pagination in recycler view =>SwipeRefreshLayout
+https://androidwave.com
+https://stacktips.com
+freetutorial.us
+Butterknife
+https://jsonplaceholder.typicode.com/ =>For Free Api
+how does work cache in android 
+the different of glide and picasso
+
+
+Dribble.com=>ui design
+collectui.com
+uplaps.com
+www.edx.org
+
+https://www.youtube.com/watch?v=4L5y2HdIRrE  =user login Ui
+
+dribble
+pintrest
+behance.net
+udacity.com
+jetpack
+layout-weight
+
+release keytool=>https://developer.android.com/studio/publish/app-signing?hl=en
+release deytool=>https://www.techotopia.com/index.php/Generating_a_Signed_Release_APK_File_in_Android_Studio
+
+glide sample=>https://github.com/bumptech/glide
+
+
+
